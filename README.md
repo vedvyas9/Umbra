@@ -1,2 +1,3 @@
 # Umbra
-Human hand robotic cloning
+Robotics, a field as fascinating as it is revolutionary.  One aspect of robotics that has demanded constant attention of enthusiasts is mimicry of human gestures and maneuvers.Project UMBRA strives to achieve compete replication of the gestures and maneuvers of the human arm. Sensors read the gestures from a human hand and convey the same to a robotic arm assembled from hydraulics, motors and levers.
+The primary goal is to achieve real-time replication of gestures which may later be extended to storing one or set of gestures to indefinitely replicate them.This increases the scope of application of the project by leaps and bounds
